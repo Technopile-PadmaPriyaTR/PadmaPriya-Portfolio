@@ -459,10 +459,10 @@ section .title::after{
     width: 60%;
 }
 .skills-content .left .php::before{
-    width: 70%;
+    width: 50%;
 }
 .skills-content .left .mysql::before{
-    width: 70%;
+    width: 50%;
 }
 .skills .skills-content .right .bars{
     margin-bottom: 15px;
@@ -495,16 +495,16 @@ section .title::after{
     width: 50%;
 }
 .skills-content .right .css::before{
-    width: 70%;
+    width: 80%;
 }
 .skills-content .right .js::before{
     width: 30%;
 }
 .skills-content .right .php::before{
-    width: 50%;
+    width: 70%;
 }
 .skills-content .right .mysql::before{
-    width: 60%;
+    width: 50%;
 }
 
 /* teams section styling */
